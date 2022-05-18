@@ -110,7 +110,7 @@ $imgbulk = scandir($theinput."/img");
   if (($srcfile != ".") & ($srcfile != "..")) {
     $file_info = pathinfo($srcfile);
     $file_extension = $file_info['extension'];
-    if ($file_extension == "BAS") {
+    if (strtoupper($file_extension) == "BAS") {
       echo $srcfile . "<br/>";
       ?>
       <textarea id="" class="console" cols="90" rows="15"><?php echo file_get_contents($theinput . "/src/" . $srcfile); ?> </textarea>
