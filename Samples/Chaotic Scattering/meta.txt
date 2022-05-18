@@ -1,0 +1,7 @@
+Title: Chaotic Scattering - Gaspard-Rice system
+Author: vince
+Source: qb64.org Forum
+URL:
+https://qb64forum.alephc.xyz/index.php?topic=2300.0
+https://en.wikipedia.org/wiki/Chaotic_scattering
+Version: 2018

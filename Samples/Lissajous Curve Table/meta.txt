@@ -1,0 +1,5 @@
+Title: Lissajous Curve Table
+Author: FellippeHeitor
+Source: qb64.org Forum
+URL: https://qb64forum.alephc.xyz/index.php?topic=2322.0
+Version: 2018

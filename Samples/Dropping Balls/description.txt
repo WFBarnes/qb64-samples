@@ -1,0 +1,4 @@
+Dropping Balls an attempt to build a pile by adjusting drop rate, elasticity, and gravity.
+Bplus used tools from SMcNeill for fill circle and STxAxTIC for non-overlapping balls.
+
+This thread is a fun continuation of ball collision experiments from a number of members including: @_vince who offered an hourglass challenge, @[banned user], @SMcNeill, @STxAxTIC, creating a collection of interesting variations. The code given here is just one program from a variety produced. Look through the whole of the designated thread, it continues into Hourglass thread linked near end of URL above.
