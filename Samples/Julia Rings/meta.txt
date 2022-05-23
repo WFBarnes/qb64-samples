@@ -1,0 +1,5 @@
+Title: Julia Rings
+Author: Relsoft
+Source: qb64.net Forum
+URL: https://qb64forum.alephc.xyz/index.php?topic=1045.0
+Version: QB64
