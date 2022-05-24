@@ -1,0 +1,5 @@
+Title: Texel Raytracer
+Author: Antoni Gual
+Source: petesqbsite
+URL: https://qb64forum.alephc.xyz/index.php?topic=185.0
+Version: 2004

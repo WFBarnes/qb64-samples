@@ -56,7 +56,7 @@ echo "<body>";
 <div class="container" style="text-align:left">
 <?php foreach ($directories as $folder) {
   $tags = file_get_contents($folder . "/tags.txt");
-  echo "<a href=\"index.php?i=" . $folder . "\">" . $folder . "</a><div class=\"alignright\">" . $tags . "</div><br/><br/>";
+  echo "<a href=\"index.php?i=" . $folder . "\">" . substr($folder, 8) . "</a><div class=\"alignright\">" . $tags . "</div><br/><br/>";
 } ?>
 </div>
 </center>
@@ -97,9 +97,11 @@ $imgbulk = scandir($theinput."/img");
 <center>
 <div class="container" style="text-align:left">
 <h2>Description</h2>
+<i>
 <?php foreach (explode("\n", file_get_contents($theinput . "/description.txt")) as $descdat) {
   echo $descdat . "<br/>";
 } ?>
+</i>
 </div>
 </center>
 
