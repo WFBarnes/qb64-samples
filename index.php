@@ -109,10 +109,12 @@ $imgbulk = scandir($theinput."/img");
 <div class="container" style="text-align:left">
 <h2>Source</h2>
 <?php foreach ($srcbulk as $srcfile) {
+  $flag = 0;
   if (($srcfile != ".") & ($srcfile != "..")) {
     $file_info = pathinfo($srcfile);
     $file_extension = $file_info['extension'];
     if (strtoupper($file_extension) == "BAS") {
+      $flag = 1;
       echo $srcfile . "<br/>";
       ?>
       <textarea id="" class="console" cols="90" rows="15"><?php echo file_get_contents($theinput . "/src/" . $srcfile); ?> </textarea>
@@ -120,6 +122,9 @@ $imgbulk = scandir($theinput."/img");
       <?php
     }
   }
+} 
+if ($flag == 0) {
+  echo "See Download(s) above.";
 } ?>
 </div>
 </center>
