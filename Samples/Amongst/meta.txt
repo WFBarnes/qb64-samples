@@ -1,0 +1,5 @@
+Title: Amongst
+Author: Fellippe Heitor
+Source: qb64.org Forum
+URL: https://github.com/FellippeHeitor/amongst
+Version: 2020

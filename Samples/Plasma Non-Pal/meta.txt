@@ -1,0 +1,5 @@
+Title: Non-Palette Rotated Plasma
+Author: Relsoft
+Source: Misc. archive
+URL: 
+Version: 2003

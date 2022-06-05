@@ -1,1 +1,1 @@
-2d, fractal
+fractal, art

@@ -1,1 +1,1 @@
-3D graphics, maptriangle
+3d, maptriangle

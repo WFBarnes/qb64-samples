@@ -1,0 +1,6 @@
+'Pure QB Realtime Raytracer Demo
+'Translated to/optimized for QB by Antoni Gual agual@eic.ictnet.es
+'The original was written in C by Texel, a Spanish demo coder.
+'It will not work in the IDE due to integer overflow errors.
+'Compile with QB 4.0 or QB4.5 + ffix. It does 12.5 fps in my P4 1,4.
+'The C version (DOS protected mode, DJGPP) does 50 fps :(

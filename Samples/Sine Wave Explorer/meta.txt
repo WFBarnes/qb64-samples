@@ -1,0 +1,5 @@
+Title: Sine Wave Explorer
+Author: 
+Source: Misc Archive
+URL: 
+Version: QB64

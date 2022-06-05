@@ -1,1 +1,1 @@
-gravity, spherical collisions
+gravity, collisions

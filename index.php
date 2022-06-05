@@ -56,7 +56,7 @@ echo "<body>";
 <div class="container" style="text-align:left">
 <?php foreach ($directories as $folder) {
   $tags = file_get_contents($folder . "/tags.txt");
-  echo "<a href=\"index.php?i=" . $folder . "\">" . substr($folder, 8) . "</a><div class=\"alignright\">" . $tags . "</div><br/><br/>";
+  echo "<a href=\"index.php?i=" . $folder . "\">" . substr($folder, 8) . "</a><div class=\"alignright\">" . $tags . "</div><br/>";
 } ?>
 </div>
 </center>
@@ -144,6 +144,6 @@ if ($flag == 0) {
 </center>
 
 <?php }
-echo "</body>";
+echo "<br/><br/></body>";
 echo "</html>";
 ?>

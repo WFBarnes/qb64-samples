@@ -1,1 +1,1 @@
-dominoes, image processing
+image processing

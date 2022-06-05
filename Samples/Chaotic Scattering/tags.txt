@@ -1,1 +1,1 @@
-gaspard-rice, ray reflections
+ray tracing, reflections

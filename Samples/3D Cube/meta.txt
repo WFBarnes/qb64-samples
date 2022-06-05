@@ -1,0 +1,5 @@
+Title: Julia Rings
+Author: Relsoft
+Source: Misc. archive
+URL: 
+Version: 2003

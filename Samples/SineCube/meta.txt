@@ -1,0 +1,5 @@
+Title: SineCube
+Author: Mennonite
+Source: Misc. archive
+URL: 
+Version: 2006
