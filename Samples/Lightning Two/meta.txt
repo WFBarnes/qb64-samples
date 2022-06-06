@@ -1,0 +1,5 @@
+Title: Bezier
+Author: Rho Sigma
+Source: Misc. archive
+URL: 
+Version: QB64

@@ -86,14 +86,18 @@ $imgbulk = scandir($theinput."/img");
 <h2>Download</h2>
 <ul>
 <?php foreach ($srcbulk as $srcfile) {
-  if (($srcfile != ".") & ($srcfile != "..")) {
-     echo "<li><a href=\"" . $theinput . "/src/" . $srcfile . "\">" . $srcfile . "</a></li>";
+  if (($srcfile != ".") & ($srcfile != "..") & (strpos($srcfile, ".") !== false)) {
+    $file_info = pathinfo($srcfile);
+    $file_extension = $file_info['extension'];
+    if ((strtoupper($file_extension) == "BAS") | (strtoupper($file_extension) == "ZIP")) {
+      echo "<li><a href=\"" . $theinput . "/src/" . $srcfile . "\">" . $srcfile . "</a></li>";
+    }
   }
 } ?>
 </ul>
 </div>
 </center>
-  
+
 <center>
 <div class="container" style="text-align:left">
 <h2>Description</h2>

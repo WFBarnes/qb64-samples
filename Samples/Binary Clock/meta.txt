@@ -1,0 +1,5 @@
+Title: Binary Clock
+Author: Rho Sigma
+Source: Misc. archive
+URL: 
+Version: QB64
