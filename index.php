@@ -77,7 +77,7 @@ $imgbulk = scandir($theinput."/img");
 <div class="container" style="text-align:left">
 <h2>Meta</h2>
 <?php
-  echo "Title: "; $metadat=file_get_contents($theinput . "/title.txt"); echo $metadat . "<br/>"; 
+  echo "Title: "; $metadat=substr($theinput, 8); echo $metadat . "<br/>"; 
   echo "Author: "; $metadat=file_get_contents($theinput . "/author.txt"); echo $metadat . "<br/>";   
   echo "URL: "; $metadat=file_get_contents($theinput . "/url.txt"); echo "<a href=\"$metadat\">$metadat</a>" . "<br/>";
   echo "Tags: "; $metadat=file_get_contents($theinput . "/tags.txt"); echo $metadat . "<br/>";   

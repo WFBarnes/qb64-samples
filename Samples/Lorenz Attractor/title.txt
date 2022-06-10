@@ -1,1 +1,0 @@
-Rotating Lorenz Attractor
