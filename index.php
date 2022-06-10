@@ -56,7 +56,8 @@ echo "<body>";
 <div class="container" style="text-align:left">
 <?php foreach ($directories as $folder) {
   $tags = file_get_contents($folder . "/tags.txt");
-  echo "<a href=\"index.php?i=" . $folder . "\">" . substr($folder, 8) . "</a><div class=\"alignright\">" . $tags . "</div><br/>";
+  $author = file_get_contents($folder . "/author.txt");
+  echo "<a href=\"index.php?i=" . $folder . "\">" . substr($folder, 8) . "</a> - $author <div class=\"alignright\">" . $tags . "</div><br/>";
 } ?>
 </div>
 </center>
@@ -79,6 +80,7 @@ $imgbulk = scandir($theinput."/img");
   echo "Title: "; $metadat=file_get_contents($theinput . "/title.txt"); echo $metadat . "<br/>"; 
   echo "Author: "; $metadat=file_get_contents($theinput . "/author.txt"); echo $metadat . "<br/>";   
   echo "URL: "; $metadat=file_get_contents($theinput . "/url.txt"); echo "<a href=\"$metadat\">$metadat</a>" . "<br/>";
+  echo "Tags: "; $metadat=file_get_contents($theinput . "/tags.txt"); echo $metadat . "<br/>";   
 ?>
 </div>
 </center>
