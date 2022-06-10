@@ -1,5 +1,0 @@
-Title: Ellipse Intersecting Line
-Author: STxAxTIC
-Source: qb64.org Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=2302.0
-Version: QB64

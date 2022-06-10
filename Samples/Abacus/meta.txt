@@ -1,5 +1,0 @@
-Title: Abacus
-Author: Bob Seguin
-Source: Misc. archive
-URL: 
-Version: QB64

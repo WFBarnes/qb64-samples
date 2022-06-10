@@ -1,5 +1,0 @@
-Title: Can't Contain Me
-Author: Fellippe Heitor
-Source: github
-URL: https://github.com/FellippeHeitor/cant-contain-me
-Version: QB64

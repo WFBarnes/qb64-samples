@@ -1,5 +1,0 @@
-Title: ArcDemo
-Author: Tsiplacov Sergey
-Source: Misc. archive
-URL: http://www.totaldoscollection.org/nugnugnug/allhave.txt
-Version: QB64

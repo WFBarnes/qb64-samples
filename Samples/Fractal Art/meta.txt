@@ -1,5 +1,0 @@
-Title: Fractal Art
-Author: Zom-B
-Source: qb64.net Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=173.0
-Version: 2010

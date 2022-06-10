@@ -1,5 +1,0 @@
-Title: Mini Clock
-Author: Folker Fritz
-Source: Misc. archive
-URL: 
-Version: 1999

@@ -1,5 +1,0 @@
-Title: Starfield Torus
-Author: JKC
-Source: Misc. archive
-URL: 
-Version: 2003

@@ -1,5 +1,0 @@
-Title: Pipes Puzzle (Maze Connect)
-Author: Dav
-Source: qb64.org Forum Archive
-URL: https://qb64forum.alephc.xyz/index.php?topic=4233.0
-Version: 1

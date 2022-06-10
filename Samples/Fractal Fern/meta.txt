@@ -1,5 +1,0 @@
-Title: Fractal Fern
-Author: 
-Source: Misc. archive
-URL: 
-Version: QB64

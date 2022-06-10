@@ -1,5 +1,0 @@
-Title: Maptriangle in 3D
-Author: Petr
-Source: qb64.org Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=2405.0
-Version: 3D Rotation

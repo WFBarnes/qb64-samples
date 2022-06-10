@@ -1,5 +1,0 @@
-Title: 	Sort demo
-Author: Microsoft
-Source: Misc. archive
-URL: 
-Version: QB64

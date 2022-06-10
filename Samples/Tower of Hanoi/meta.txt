@@ -1,5 +1,0 @@
-Title: Tower of Hanoi
-Author: 
-Source: Misc. archive
-URL: 
-Version: 

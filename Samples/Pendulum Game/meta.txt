@@ -1,5 +1,0 @@
-Title: Pendulum Game
-Author: Fellippe Heitor
-Source: qb64.org Forum
-URL: https://github.com/FellippeHeitor/Pendulum
-Version: QB64

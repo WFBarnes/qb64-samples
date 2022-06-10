@@ -1,5 +1,0 @@
-Title: Inverse Julia Fractal Explorer
-Author: Zom-B
-Source: qb64.net Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=1046.0
-Version: QB64

@@ -1,5 +1,0 @@
-Title: Mandelbrot Set
-Author: qbguy
-Source: qb64.net Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=186.0
-Version: 2008

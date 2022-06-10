@@ -1,5 +1,0 @@
-Title: Colliding Ball Simulation
-Author: Timothy Baxendale
-Source: Misc. archive
-URL: 
-Version: 2013

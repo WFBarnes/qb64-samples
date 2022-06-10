@@ -1,5 +1,0 @@
-Title: Sokoban
-Author: David Joffe
-Source: Misc. archive
-URL: https://djoffe.com/
-Version: 1997

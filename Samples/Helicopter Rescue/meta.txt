@@ -1,5 +1,0 @@
-Title: Helicopter Rescue
-Author: TrialAndTerror
-Source: qb64.org Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=382
-Version: 2.23

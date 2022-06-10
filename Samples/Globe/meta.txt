@@ -1,5 +1,0 @@
-Title: Globe
-Author: Glen Jeh, 8/12/1994, William Yu (05-28-96)
-Source: Misc. archive
-URL: 
-Version: QB64

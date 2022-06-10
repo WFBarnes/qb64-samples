@@ -1,5 +1,0 @@
-Title: Floormaper
-Author: Antoni Gual
-Source: QBASICNEWS.COM
-URL: 
-Version: 1/2003

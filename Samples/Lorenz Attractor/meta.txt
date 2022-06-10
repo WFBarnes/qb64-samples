@@ -1,5 +1,0 @@
-Title: Rotating Lorenz Attractor
-Author: Vince
-Source: Misc. archive
-URL: 
-Version: QB64

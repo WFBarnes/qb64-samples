@@ -1,5 +1,0 @@
-Title: Mandelbrot
-Author: Antoni Gual
-Source: Misc. archive
-URL: 
-Version: 2003

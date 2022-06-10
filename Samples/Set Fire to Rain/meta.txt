@@ -1,5 +1,0 @@
-Title: Set Fire to Rain
-Author: Fellippe Heitor
-Source: github
-URL: https://github.com/FellippeHeitor/Set-fire-to-the-rain
-Version: 2018

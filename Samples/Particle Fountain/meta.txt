@@ -1,5 +1,0 @@
-Title: Particle Fountain
-Author: bplus
-Source: qb64.org Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=2957
-Version: QB64

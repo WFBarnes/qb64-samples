@@ -1,6 +1,0 @@
-Title: Fibonacci Variations
-Author: STxAxTIC
-Source: qb64.org Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=3369.0
-URL: https://qb64forum.alephc.xyz/index.php?topic=3370.0
-Version: QB64

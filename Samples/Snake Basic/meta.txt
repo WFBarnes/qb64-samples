@@ -1,4 +1,0 @@
-Title: Snake Basic
-Author: pcluddite
-Source: Misc. archive
-URL: 

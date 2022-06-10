@@ -1,4 +1,0 @@
-Title: Convert BMP to Dominoes
-Author: Richard Frost
-Source: qb64.org Forum
-URL: https://qb64forum.alephc.xyz/index.php?topic=4211.0

@@ -75,9 +75,11 @@ $imgbulk = scandir($theinput."/img");
 <center>
 <div class="container" style="text-align:left">
 <h2>Meta</h2>
-<?php foreach (explode("\n", file_get_contents($theinput . "/meta.txt")) as $metadat) {
-  echo $metadat . "<br/>";
-} ?>
+<?php
+  echo "Title: "; $metadat=file_get_contents($theinput . "/title.txt"); echo $metadat . "<br/>"; 
+  echo "Author: "; $metadat=file_get_contents($theinput . "/author.txt"); echo $metadat . "<br/>";   
+  echo "URL: "; $metadat=file_get_contents($theinput . "/url.txt"); echo "<a href=\"$metadat\">$metadat</a>" . "<br/>";
+?>
 </div>
 </center>
 
@@ -111,7 +113,7 @@ $imgbulk = scandir($theinput."/img");
 
 <center>
 <div class="container" style="text-align:left">
-<h2>Source</h2>
+<h2>Code</h2>
 <?php foreach ($srcbulk as $srcfile) {
   $flag = 0;
   if (($srcfile != ".") & ($srcfile != "..")) {
