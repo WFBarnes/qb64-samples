@@ -45,7 +45,7 @@ echo "<body>";
 <center>
 <div class="container">
   <br/>
-  <img src="Qb64.png">
+  <a href="../qb64-samples/index.php?i="><img src="Qb64.png"></a>
   <br/><br/>
 </div>
 </center>
