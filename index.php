@@ -9,8 +9,8 @@ echo "<html>";
 ?>
 
 <head>
-<title>QB64 Official (2022)</title>
-<meta name="description" content="QB64 Resources (2022), Sample Programs" />
+<title>QB64 Resources</title>
+<meta name="description" content="QB64 Resources, Sample Programs" />
 <script type="text/javascript"></script>
 <link rel="stylesheet" href="stylesqb.css">
 <link rel="icon" href="favicon.ico">
@@ -144,7 +144,7 @@ if ($flag == 0) {
   if (($imgfile != ".") & ($imgfile != "..")) {
     $pth = $theinput . "/img/" . $imgfile;
     if(@is_array(getimagesize($pth))){
-      echo "<img src=\"" . $pth . "\"</a><br/><br/>";
+      echo "<a href=\"" . $pth . "\"><img src=\"" . $pth . "\"</a><br/><br/>";
     }
   }
 } ?>
