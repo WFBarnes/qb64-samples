@@ -9,8 +9,8 @@ echo "<html>";
 ?>
 
 <head>
-<title>QB64 Resource Homepage (2022)</title>
-<meta name="description" content="QB64 Resource Homepage (2022), Sample Programs" />
+<title>QB64 Official (2022)</title>
+<meta name="description" content="QB64 Resources (2022), Sample Programs" />
 <script type="text/javascript"></script>
 <link rel="stylesheet" href="stylesqb.css">
 <link rel="icon" href="favicon.ico">
@@ -24,7 +24,7 @@ echo "<body>";
 <div class="container">
   <div class="alignleft">
     <div class="title">
-      QB64 Resource Homepage
+      QB64 Resources
     </div>
   </div>
 </div>
